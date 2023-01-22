@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kinnslayer&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=3cb371&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Alencar github stats" />
-  <img width="41%" height="255px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kinnslayer&layout=compact&hide_border=true&title_color=00ffff&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kinnslayer&layout=compact&hide_border=true&title_color=00ffff&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ### Skills:
